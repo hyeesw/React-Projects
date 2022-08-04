@@ -1,0 +1,9 @@
+vscode에 npm init react-app . 으로 react project 만들었고, 아래 파일을 제외하고 나머지 파일들을 건들이지 않았다!
+
+✔ 기존에 있던 파일을 수정함.
+App.js
+App.css
+
+✔ 새로 추가한 파일들.
+Head.js
+Modal.js
