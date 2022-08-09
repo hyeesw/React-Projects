@@ -1,5 +1,5 @@
 # React-Projects
-개인적으로 연습한 리액트 프로젝트들 😎
+개인적으로 연습한 리액트 프로젝트
 </br></br>
 ## 1. interactive_navBar_self  
 </br>
