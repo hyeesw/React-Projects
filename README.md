@@ -8,7 +8,7 @@
 ✔이하일 때 -> 햄버거 버튼이 나오며, 버튼을 눌렀을 때, 숨겨진 nav menu들이 보임!  
 <h2>
 <img src="https://user-images.githubusercontent.com/84231143/182624541-67e4bdff-bd5d-4cbf-bef3-4eb06a5504f5.png" width="70%" >
-<img src="https://ifh.cc/g/4Ry6g6.jpg" width="40%"><img src="https://ifh.cc/g/3jknjl.jpg" width="40%">
+<img src="https://user-images.githubusercontent.com/84231143/232028934-f9d7fbd1-ef7a-43bc-9674-52b139e8d1d9.PNG" width="40%"><img src="https://ifh.cc/g/3jknjl.jpg" width="40%">
 
 </br></br></br></br>
 ## 2. blog
